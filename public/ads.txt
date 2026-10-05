@@ -1,0 +1,6 @@
+# GOOGLE ADSENSE
+# After AdSense approval, replace the placeholder below with the exact line
+# shown in your AdSense account. Do not guess your publisher ID.
+#
+# Example format only:
+# google.com, pub-XXXXXXXXXXXXXXXX, DIRECT, f08c47fec0942fa0
