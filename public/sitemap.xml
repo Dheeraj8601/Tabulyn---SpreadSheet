@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Replace YOUR_DOMAIN with your production domain before deployment. -->
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://YOUR_DOMAIN/</loc><changefreq>weekly</changefreq><priority>1.0</priority></url>
-  <url><loc>https://YOUR_DOMAIN/spreadsheet</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://YOUR_DOMAIN/csv-editor</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://YOUR_DOMAIN/about</loc><changefreq>monthly</changefreq><priority>0.5</priority></url>
-  <url><loc>https://YOUR_DOMAIN/privacy</loc><changefreq>monthly</changefreq><priority>0.5</priority></url>
-  <url><loc>https://YOUR_DOMAIN/terms</loc><changefreq>monthly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://tabulyn.netlify.app/</loc><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://tabulyn.netlify.app/spreadsheet</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://tabulyn.netlify.app/csv-editor</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://tabulyn.netlify.app/about</loc><changefreq>monthly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://tabulyn.netlify.app/privacy</loc><changefreq>monthly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://tabulyn.netlify.app/terms</loc><changefreq>monthly</changefreq><priority>0.5</priority></url>
 </urlset>

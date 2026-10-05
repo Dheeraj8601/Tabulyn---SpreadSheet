@@ -1,7 +1,7 @@
 import { Helmet } from 'react-helmet-async';
 
 const SITE_NAME = 'Tabulyn';
-const DEFAULT_DOMAIN = 'https://YOUR_DOMAIN';
+const DEFAULT_DOMAIN = 'https://tabulyn.netlify.app';
 
 export default function SEO({
   title,
@@ -10,7 +10,7 @@ export default function SEO({
   structuredData,
   noindex = false,
 }) {
-  // Replace YOUR_DOMAIN with your production canonical domain before launch.
+
   const canonical = `${DEFAULT_DOMAIN}${path === '/' ? '' : path}`;
   const fullTitle = title ? `${title} | ${SITE_NAME}` : `${SITE_NAME} — Free Online Spreadsheet & CSV Editor`;
 
